@@ -1,15 +1,33 @@
-<h2 align="left"> Olá!   </h2>
+<h2 align="left">   </h2>
+
+<h2 align="left"> Olá! 👋 </h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 1991<br>
+📚 Atualmente aprendendo: python, gcp<br>
+🎲 Fatos: Mãe da Evee 🐶, 	  <br>
+📌 Hobbies: 🚴‍♀️,🛼 ,🏋️, 🛫, 🍔, 🍷, 🎞️, 📸, 🎮, 📖
+
+
+	 
+ </p>
+
+
 
 <div align="center">
-  <img align="left" style="padding-top:5%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fabilucas" height="150" alt="stats graph"  />
+  <img align="left" style="padding-top:2%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fabilucas" height="150" alt="stats graph"  />
   <img  src="https://media.giphy.com/media/xUOxfg0ESyhKOv4Vva/giphy.gif" alt="fallout-hello" height="180" width="180" />
 
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="python logo"  />
+  
 </div>
 
 ###
