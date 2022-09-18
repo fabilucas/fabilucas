@@ -8,11 +8,8 @@
 📚 Atualmente aprendendo: python, gcp<br>
 🎲 Fatos: Mãe da Evee 🐶, 	  <br>
 📌 Hobbies: 🚴‍♀️,🛼 ,🏋️, 🛫, 🍔, 🍷, 🎞️, 📸, 🎮, 📖
-
-
 	 
  </p>
-
 
 
 <div align="center">
